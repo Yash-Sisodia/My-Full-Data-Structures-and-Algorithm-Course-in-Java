@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "LectureA",
+      "request": "launch",
+      "mainClass": "LectureA",
+      "projectName": "My Full Stack Data Structures & Algorithms Course_43132c39"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/MY HP/Desktop/My Full Stack Data Structures & Algorithms Course",
+      "program": "c:/Users/MY HP/Desktop/My Full Stack Data Structures & Algorithms Course/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
